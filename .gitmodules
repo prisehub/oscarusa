@@ -1,0 +1,4 @@
+[submodule "prisehub/salon"]
+	path = prisehub/salon
+	url = git@github.com:prisehub/salon.git
+	branch = 13.0
